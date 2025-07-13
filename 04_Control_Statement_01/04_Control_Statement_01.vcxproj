@@ -24,6 +24,7 @@
     <ProjectGuid>{77964ba7-54ae-44a3-a194-e20f16414052}</ProjectGuid>
     <RootNamespace>My04ControlStatement01</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>16_If-Else_Conditional_Statements_01</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

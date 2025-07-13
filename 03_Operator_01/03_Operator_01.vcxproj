@@ -24,6 +24,7 @@
     <ProjectGuid>{7636e9c7-88d3-44de-a479-c4b81af96844}</ProjectGuid>
     <RootNamespace>My03Operator01</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>03_Arithmetic_Operator_01</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

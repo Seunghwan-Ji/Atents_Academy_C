@@ -24,6 +24,7 @@
     <ProjectGuid>{c0781add-69e8-441c-8fb5-9fd902c4b7b2}</ProjectGuid>
     <RootNamespace>My16DynamicVariable02</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>47_Dynamic_Memory_Allocation_Functions_01</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

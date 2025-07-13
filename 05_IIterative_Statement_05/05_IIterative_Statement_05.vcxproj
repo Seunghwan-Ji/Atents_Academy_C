@@ -24,6 +24,7 @@
     <ProjectGuid>{93eba0d7-b576-4446-a989-5eaa866e3a09}</ProjectGuid>
     <RootNamespace>My05IIterativeStatement05</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>22_Gugudan_01</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

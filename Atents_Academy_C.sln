@@ -7,75 +7,73 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01_Variable_01", "01_Variab
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02_DataType_01", "02_DataType_01\02_DataType_01.vcxproj", "{EEA29D1D-1F99-4C60-A7B0-7B2ADCCCEDBF}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03_Operator_01", "03_Operator_01\03_Operator_01.vcxproj", "{7636E9C7-88D3-44DE-A479-C4B81AF96844}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03_Arithmetic_Operator_01", "03_Operator_01\03_Operator_01.vcxproj", "{7636E9C7-88D3-44DE-A479-C4B81AF96844}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03_Operator_02", "03_Operator_02\03_Operator_02.vcxproj", "{978F6B4B-FA3A-4EFB-9647-3D4E4B2EBE11}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04_Modulus_Operator_01", "03_Operator_02\03_Operator_02.vcxproj", "{978F6B4B-FA3A-4EFB-9647-3D4E4B2EBE11}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03_Operator_03", "03_Operator_03\03_Operator_03.vcxproj", "{AC3A69BA-F3E9-4F2C-B97F-9DBC09C1B256}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05_Relational_Operator_01", "03_Operator_03\03_Operator_03.vcxproj", "{AC3A69BA-F3E9-4F2C-B97F-9DBC09C1B256}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03_Operator_04", "03_Operator_04\03_Operator_04.vcxproj", "{620E764E-7F27-4055-B9FB-B6D9BB8EA392}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "06_Logical_Operator_01", "03_Operator_04\03_Operator_04.vcxproj", "{620E764E-7F27-4055-B9FB-B6D9BB8EA392}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03_Operator_05", "03_Operator_05\03_Operator_05.vcxproj", "{E1EA3B81-9A53-4E90-8102-DB67129F6876}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "06_Logical_Operator_02", "03_Operator_05\03_Operator_05.vcxproj", "{E1EA3B81-9A53-4E90-8102-DB67129F6876}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03_Operator_06", "03_Operator_06\03_Operator_06.vcxproj", "{AC71C4EB-315E-4D65-94F4-5208C869F78D}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "07_Logical_Type_01", "03_Operator_06\03_Operator_06.vcxproj", "{AC71C4EB-315E-4D65-94F4-5208C869F78D}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03_Operator_07", "03_Operator_07\03_Operator_07.vcxproj", "{8450D1A5-72CA-4620-AEB7-2A8223C7A547}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "08_Conditional_Operator_01", "03_Operator_07\03_Operator_07.vcxproj", "{8450D1A5-72CA-4620-AEB7-2A8223C7A547}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03_Operator_08", "03_Operator_08\03_Operator_08.vcxproj", "{65F8B2CB-D8D8-4A19-AAEE-A5B92450935B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "09_Increment_and_Decrement_Operator_01", "03_Operator_08\03_Operator_08.vcxproj", "{65F8B2CB-D8D8-4A19-AAEE-A5B92450935B}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03_Operator_09", "03_Operator_09\03_Operator_09.vcxproj", "{CCCD1410-6E80-416D-B03E-4630D0A87914}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10_Assignment_Operator_01", "03_Operator_09\03_Operator_09.vcxproj", "{CCCD1410-6E80-416D-B03E-4630D0A87914}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03_Operator_10", "03_Operator_10\03_Operator_10.vcxproj", "{A8138739-8666-4038-B537-4277253B7EDA}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11_Bitwise_Operator_01", "03_Operator_10\03_Operator_10.vcxproj", "{A8138739-8666-4038-B537-4277253B7EDA}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03_Operator_11", "03_Operator_11\03_Operator_11.vcxproj", "{87217338-77A5-4ADD-98B2-6D1AC4F8B05F}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11_Bitwise_Operator_02", "03_Operator_11\03_Operator_11.vcxproj", "{87217338-77A5-4ADD-98B2-6D1AC4F8B05F}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03_Operator_12", "03_Operator_12\03_Operator_12.vcxproj", "{AEDC47C1-2348-4559-A404-8C8B2282AE68}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12_Shift_Operator_01", "03_Operator_12\03_Operator_12.vcxproj", "{AEDC47C1-2348-4559-A404-8C8B2282AE68}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03_Operator_13", "03_Operator_13\03_Operator_13.vcxproj", "{5F9426AC-FE05-4CCF-9806-AE7506482205}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12_Shift_Operator_02", "03_Operator_13\03_Operator_13.vcxproj", "{5F9426AC-FE05-4CCF-9806-AE7506482205}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03_Operator_14", "03_Operator_14\03_Operator_14.vcxproj", "{81EE734F-991B-4122-9266-B6EBC50D8233}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12_Shift_Operator_03", "03_Operator_14\03_Operator_14.vcxproj", "{81EE734F-991B-4122-9266-B6EBC50D8233}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03_Operator_15", "03_Operator_15\03_Operator_15.vcxproj", "{71D23BE9-2DA2-4119-99ED-264683B9CCCF}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "13_Exclusive_Or_Operator_01", "03_Operator_15\03_Operator_15.vcxproj", "{71D23BE9-2DA2-4119-99ED-264683B9CCCF}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03_Operator_16", "03_Operator_16\03_Operator_16.vcxproj", "{2C4BC7CC-FD51-4E1B-AFBB-B403FCAD1101}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "14_Size_Of_Operator_01", "03_Operator_16\03_Operator_16.vcxproj", "{2C4BC7CC-FD51-4E1B-AFBB-B403FCAD1101}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03_Operator_Task_01", "03_Operator_Task_01\03_Operator_Task_01.vcxproj", "{96A71F5F-A692-4370-B21C-5DA729148BF0}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "15_Operator_Task_01", "03_Operator_Task_01\03_Operator_Task_01.vcxproj", "{96A71F5F-A692-4370-B21C-5DA729148BF0}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03_Operator_Task_02", "03_Operator_Task_02\03_Operator_Task_02.vcxproj", "{6C95778D-8FC8-4714-91EB-60D69F5CF373}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "15_Operator_Task_02", "03_Operator_Task_02\03_Operator_Task_02.vcxproj", "{6C95778D-8FC8-4714-91EB-60D69F5CF373}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04_Control_Statement_01", "04_Control_Statement_01\04_Control_Statement_01.vcxproj", "{77964BA7-54AE-44A3-A194-E20F16414052}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "16_If-Else_Conditional_Statements_01", "04_Control_Statement_01\04_Control_Statement_01.vcxproj", "{77964BA7-54AE-44A3-A194-E20F16414052}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04_Control_Statement_02", "04_Control_Statement_02\04_Control_Statement_02.vcxproj", "{4EC97BEF-21EF-4919-9C01-38929613E5C5}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "16_If-Else_Conditional_Statements_02", "04_Control_Statement_02\04_Control_Statement_02.vcxproj", "{4EC97BEF-21EF-4919-9C01-38929613E5C5}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04_Control_Statement_03", "04_Control_Statement_03\04_Control_Statement_03.vcxproj", "{0C9C7EC3-AA71-4FB6-863A-4A399E06E660}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "16_If-Else_Conditional_Statements_03", "04_Control_Statement_03\04_Control_Statement_03.vcxproj", "{0C9C7EC3-AA71-4FB6-863A-4A399E06E660}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04_Control_Statement_04", "04_Control_Statement_04\04_Control_Statement_04.vcxproj", "{2F3CB577-07F8-438B-80A3-BF0A363F79C1}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "16_If-Else_Conditional_Statements_04", "04_Control_Statement_04\04_Control_Statement_04.vcxproj", "{2F3CB577-07F8-438B-80A3-BF0A363F79C1}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04_Control_Statement_05", "04_Control_Statement_05\04_Control_Statement_05.vcxproj", "{A019C075-DE69-4AEF-8103-95F6BDE93D25}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "17_Switch-Case_Selection_Statement_01", "04_Control_Statement_05\04_Control_Statement_05.vcxproj", "{A019C075-DE69-4AEF-8103-95F6BDE93D25}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04_Control_Statement_06", "04_Control_Statement_06\04_Control_Statement_06.vcxproj", "{CDFAC2A3-1A08-4A6F-9196-508BC0E1C1D8}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "17_Switch-Case_Selection_Statement_02", "04_Control_Statement_06\04_Control_Statement_06.vcxproj", "{CDFAC2A3-1A08-4A6F-9196-508BC0E1C1D8}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04_Control_Statement_07", "04_Control_Statement_07\04_Control_Statement_07.vcxproj", "{E9CFB108-F126-4911-BE09-DED839E337E8}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "17_Switch-Case_Selection_Statement_03", "04_Control_Statement_07\04_Control_Statement_07.vcxproj", "{E9CFB108-F126-4911-BE09-DED839E337E8}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04_Control_Statement_08", "04_Control_Statement_08\04_Control_Statement_08.vcxproj", "{60849ACF-C93F-4413-A120-851B4F84076B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "17_Switch-Case_Selection_Statement_04", "04_Control_Statement_08\04_Control_Statement_08.vcxproj", "{60849ACF-C93F-4413-A120-851B4F84076B}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04_Control_Statement_09", "04_Control_Statement_09\04_Control_Statement_09.vcxproj", "{4FBEE9D4-6912-4F15-8B55-F1EDC1C226FB}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "18_goto_Statement_01", "04_Control_Statement_09\04_Control_Statement_09.vcxproj", "{4FBEE9D4-6912-4F15-8B55-F1EDC1C226FB}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05_IIterative_Statement_01", "05_IIterative_Statement_01\05_IIterative_Statement_01.vcxproj", "{E21F4C20-8F03-4E88-BB31-3EE687F788B8}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "19_for_Loop_Statement_01", "05_IIterative_Statement_01\05_IIterative_Statement_01.vcxproj", "{E21F4C20-8F03-4E88-BB31-3EE687F788B8}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05_IIterative_Statement_02", "05_IIterative_Statement_02\05_IIterative_Statement_02.vcxproj", "{DCE63A02-0865-4A79-9292-23ED6D9040F7}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20_While_Loop_Statement_01", "05_IIterative_Statement_02\05_IIterative_Statement_02.vcxproj", "{DCE63A02-0865-4A79-9292-23ED6D9040F7}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05_IIterative_Statement_03", "05_IIterative_Statement_03\05_IIterative_Statement_03.vcxproj", "{6C37B10B-9CE7-4B1B-9C37-21E537F41E08}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20_While_Loop_Statement_02", "05_IIterative_Statement_03\05_IIterative_Statement_03.vcxproj", "{6C37B10B-9CE7-4B1B-9C37-21E537F41E08}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05_IIterative_Statement_04", "05_IIterative_Statement_04\05_IIterative_Statement_04.vcxproj", "{8C5E1258-E191-4736-987B-BD3E04956888}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "21_Continue_Keyword_01", "05_IIterative_Statement_04\05_IIterative_Statement_04.vcxproj", "{8C5E1258-E191-4736-987B-BD3E04956888}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05_IIterative_Statement_05", "05_IIterative_Statement_05\05_IIterative_Statement_05.vcxproj", "{93EBA0D7-B576-4446-A989-5EAA866E3A09}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "22_Gugudan_01", "05_IIterative_Statement_05\05_IIterative_Statement_05.vcxproj", "{93EBA0D7-B576-4446-A989-5EAA866E3A09}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05_IIterative_Statement_Task_01", "05_IIterative_Statement_Task_01\05_IIterative_Statement_Task_01.vcxproj", "{E7DC1C6C-624F-4304-A741-FFA45F9C02ED}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "23_Loop Task_01", "05_IIterative_Statement_Task_01\05_IIterative_Statement_Task_01.vcxproj", "{E7DC1C6C-624F-4304-A741-FFA45F9C02ED}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "06_Array_01", "06_Array_01\06_Array_01.vcxproj", "{C712B72B-BEB2-4BBF-AF4C-780863F6BBCE}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "06_Array_02", "06_Array_02\06_Array_02.vcxproj", "{F4D30E93-C26B-489C-832D-820AE184EFA1}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "24_Array_01", "06_Array_01\06_Array_01.vcxproj", "{C712B72B-BEB2-4BBF-AF4C-780863F6BBCE}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "06_Array_03", "06_Array_03\06_Array_03.vcxproj", "{DCFD9A20-A23A-4B94-A00A-154A3D34E310}"
 EndProject
@@ -487,14 +485,6 @@ Global
 		{C712B72B-BEB2-4BBF-AF4C-780863F6BBCE}.Release|x64.Build.0 = Release|x64
 		{C712B72B-BEB2-4BBF-AF4C-780863F6BBCE}.Release|x86.ActiveCfg = Release|Win32
 		{C712B72B-BEB2-4BBF-AF4C-780863F6BBCE}.Release|x86.Build.0 = Release|Win32
-		{F4D30E93-C26B-489C-832D-820AE184EFA1}.Debug|x64.ActiveCfg = Debug|x64
-		{F4D30E93-C26B-489C-832D-820AE184EFA1}.Debug|x64.Build.0 = Debug|x64
-		{F4D30E93-C26B-489C-832D-820AE184EFA1}.Debug|x86.ActiveCfg = Debug|Win32
-		{F4D30E93-C26B-489C-832D-820AE184EFA1}.Debug|x86.Build.0 = Debug|Win32
-		{F4D30E93-C26B-489C-832D-820AE184EFA1}.Release|x64.ActiveCfg = Release|x64
-		{F4D30E93-C26B-489C-832D-820AE184EFA1}.Release|x64.Build.0 = Release|x64
-		{F4D30E93-C26B-489C-832D-820AE184EFA1}.Release|x86.ActiveCfg = Release|Win32
-		{F4D30E93-C26B-489C-832D-820AE184EFA1}.Release|x86.Build.0 = Release|Win32
 		{DCFD9A20-A23A-4B94-A00A-154A3D34E310}.Debug|x64.ActiveCfg = Debug|x64
 		{DCFD9A20-A23A-4B94-A00A-154A3D34E310}.Debug|x64.Build.0 = Debug|x64
 		{DCFD9A20-A23A-4B94-A00A-154A3D34E310}.Debug|x86.ActiveCfg = Debug|Win32
